@@ -1,0 +1,46 @@
+h1,
+header,
+IMG,
+
+ h1{
+ font-size: 80px;
+font-family: fantasy;
+text-align: center;
+ height: 10px;
+ color: rgb(212, 234, 15);
+
+}
+
+header{
+  background-color: rgb(4, 4, 69);
+height: 115pt;
+margin: 0px;
+padding: 10px;
+}
+img{
+  height: 175px;
+ position:absolute;
+ top: 26px;
+ margin-left: -753px;
+
+}
+
+
+h6{
+  margin-left: auto;
+  margin-left: auto;
+  text-align: center;
+  font-size: 42px;
+  font-style: oblique;
+}
+
+h4{
+
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lineaire-simple {
+  background: linear-gradient(blue, pink);
+}
+
