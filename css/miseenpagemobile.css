@@ -1,0 +1,100 @@
+h1,
+header,
+IMG,
+
+ h1{
+ font-size: 80px;
+font-family: fantasy;
+text-align: center;
+ height: 10%;
+ color: rgb(212, 234, 15);
+ top:20%;
+
+}
+
+header{
+  background-color: rgb(4, 4, 69);
+height: 55.5pt;
+margin: 0px;
+padding: 10px;
+}
+img{
+  height: 13%;
+ 
+ top: 26px;
+ margin-left: -49%;
+
+}
+
+
+h6{
+  margin-left: auto;
+  margin-left: auto;
+  text-align: center;
+  font-size: 21px;
+  font-style: oblique;
+}
+
+h4{
+font-size: 17.5px;
+margin-left: 80px;
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.imageactus {
+height: 150px;
+margin-left: 950px;
+top: 850px;
+
+
+
+
+
+
+}
+
+
+
+.lineaire-simple {
+  background: linear-gradient(blue, pink);
+}
+
+.imagecompte{
+
+
+    margin-left: 80%;
+  
+
+   
+}
+ 
+.bouton1{
+    margin-left: 15px;
+   height: 50px;
+   width: 20%;
+    float: left;
+    background: radial-gradient(yellow, rgb(18, 18, 196));
+}
+   
+
+h2{
+   
+    margin-left: 25px;
+    margin-left: auto;
+    text-align: center;
+    font-size: 42px;
+    font-style: oblique;
+  }
+ h3{
+margin-left: 25px;
+
+
+ }
+iframe{
+margin-left: 25px;
+width: 45%;
+
+
+}
+
+
