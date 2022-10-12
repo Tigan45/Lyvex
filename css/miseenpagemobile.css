@@ -100,5 +100,16 @@ width: 45%;
 
 
 }
+@media(max-width: 767px)
+
+{ #contenu
+
+  {
+  
+              width :100% ;
+  
+  }
+
+}
 
 
