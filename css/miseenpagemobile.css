@@ -59,8 +59,8 @@ top: 850px;
 
 .lineaire-simple {
   background: linear-gradient(blue, pink);
-   width: auto;
-  height: auto;
+   width: 100%;
+  height: 100%;
 }
 
 .imagecompte{
