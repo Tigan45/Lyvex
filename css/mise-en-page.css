@@ -35,12 +35,26 @@ h6{
 }
 
 h4{
-
-  text-align: center;
+font-size: 35px;
+margin-left: 80px;
+  text-align: left;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.imageactus {
+height: 300px;
+margin-left: 950px;
+top: 850px;
+
+
+
+
+}
+
+
 
 .lineaire-simple {
   background: linear-gradient(blue, pink);
 }
+
+
 
